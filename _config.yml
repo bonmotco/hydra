@@ -3,7 +3,7 @@
 
 title: Bonmot.co
 url: "https://bonmotco.github.io/"
-baseurl: "/hydra/"
+baseurl: "hydra/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -11,9 +11,9 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Craft a story.
-author: Sebastian
-  name: Sebastian2
-  email: duerr.sebastian@gmail.com
+author:
+  name:
+  email:
   twitter: duerrseb
 social:
   name:
